@@ -1,6 +1,6 @@
 <span align="center">
-    <a href="https://www.kaggle.com/jamshidjdmy/persianquad"><img alt="Kaggle" src="https://badgen.net/badge/icon/PersianQuAD/blue?icon=&label=Kaggle"/></a>
-    <a href="https://colab.research.google.com/github/BigData-IsfahanUni/PersianQuAD/blob/main/Main.ipynb"><img src="https://badgen.net/badge/icon/Demo/orange?icon=&label=Colab"></a>
+    <a href="https://www.kaggle.com/jamshidjdmy/persianquad"><img alt="Kaggle" src="https://img.shields.io/static/v1?label=Kaggle&message=PersianQuAD&logo=Kaggle&color=20BEFF"/></a>
+    <a href="https://colab.research.google.com/github/BigData-IsfahanUni/PersianQuAD/blob/main/Main.ipynb"><img src="https://img.shields.io/static/v1?label=Colab&message=Demo&logo=Google%20Colab&color=f9ab00"></a>
 </span>
 
 # PersianQuAD: The Native Question Answering Dataset for the Persian Language
