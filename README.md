@@ -37,4 +37,19 @@ We build three QA systems according to the pre-trained language models examined 
 | **PersianQuAD** |   **MBERT**   | **78.80%**  | **82.97%** |
 
 # Citation
-The paper will be published a few days later...
+### Plain
+A. Kazemi, J. Mozafari and M. A. Nematbakhsh, "PersianQuAD: The Native Question Answering Dataset for the Persian Language," in IEEE Access, vol. 10, pp. 26045-26057, 2022, doi: 10.1109/ACCESS.2022.3157289.
+
+### Bibtex
+```bibtex
+@ARTICLE{PersianQuAD-Access,
+    author={Kazemi, Arefeh and Mozafari, Jamshid and Nematbakhsh, Mohammad Ali},
+    journal={IEEE Access},
+    title={PersianQuAD: The Native Question Answering Dataset for the Persian Language},
+    year={2022},
+    volume={10},
+    number={},
+    pages={26045-26057},
+    doi={10.1109/ACCESS.2022.3157289}
+}
+```
